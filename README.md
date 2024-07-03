@@ -35,8 +35,8 @@
 
 .theme-dark,
 .theme-dark .theme-light {
-    --cyan-second-layer: rgb(0 0 0/60%);
-    --cyan-background-primary: hsla(0deg 100% 0% / 60%);
+    --cyan-second-layer: rgb(0 0 0/20%);
+    --cyan-background-primary: hsla(0deg 100% 0% / 20%);
     --cyan-bg-brightness: .7
 }
 .theme-light {
